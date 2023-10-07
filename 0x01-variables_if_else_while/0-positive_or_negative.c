@@ -2,7 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/* Main return an int when finished*/
+/**
+ * main - Entry point
+ *
+ * Description: 'A program checks if n is positive or not'
+ * @parameter: void
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
