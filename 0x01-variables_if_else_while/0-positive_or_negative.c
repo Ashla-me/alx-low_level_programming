@@ -6,7 +6,6 @@
  * main - Entry point
  *
  * Description: 'A program checks if n is positive or not'
- * @parameter: void
  *
  * Return: Always 0 (Success)
  */
