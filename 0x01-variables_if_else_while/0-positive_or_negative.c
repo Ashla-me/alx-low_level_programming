@@ -2,13 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main Determines if a number is a positive,negative or zero
- *
- * Return Always 0 (Success)
- */
+/* Main return an int when finished*/
 
-/*Always return value of int when finished*/
 int main(void)
 {
 	int n;
