@@ -4,7 +4,9 @@
 
 /**
  * Main = Entry
- * 
+ *
+ * Desription: 'Each string shows Last digit of n'
+ *
  * Return: Always 0 (success)
  *
 */
