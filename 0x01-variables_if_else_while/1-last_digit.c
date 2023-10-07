@@ -1,5 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
+
 /**
  * Main = Entry
  * 
@@ -8,6 +10,7 @@
 */
 
 int main(void)
+
 {
 	int n;
 
