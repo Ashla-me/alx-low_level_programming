@@ -8,19 +8,15 @@
  * Return: Always 0 (Success)
  */
 
-int main()
-
+int main(void)
 {
-char alphabet;
-	int r;
+char alp[52];
+	int i;
 
-	for (r = a; r <= z; r++)
+	for (i = 0; i < 52; i++)
 	{
-		putchar("lower case character:\n");
+		putchar(alp[i]);
 	}
-	for ("r = A; r <= Z; r++")
-	{
-	putchar("\n\nUpper case character:\n');
-	}
+	putchar('\n');
 	return (0);
 }
