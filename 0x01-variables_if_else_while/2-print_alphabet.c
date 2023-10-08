@@ -9,16 +9,18 @@
  *
  */
 
-char main()
+int main()
 
 {
-	char alphabet="abcdefghijklmnopqrstuvwxyz";
+	char alphabet;
 
-	alphabet = 'a'
+	alphabet(26) = 'a';
+	int r;
+	for ('r=0< r=26'; r++)
 		putchar("Lowercase alphabet\n", a);
 	while (alphabet<='z')
 	{
-		putchar("%c", alphabet);
+		putchar("%c\n", alphabet);
 	}
 	Return 0()
 }
