@@ -1,27 +1,23 @@
 #include <stdio.h>
 
-/**
+/*
  * main - Entry
  *
- * Description: prints the alphabet in lowercase
+ * Description: 'prints the alphabet in lowercase'
  *
- * Return 0 ()
+ * Return 0 (Success)
  *
  */
 
-int main()
+int main(void)
 
 {
 	char alphabet;
-
-	alphabet(26) = 'a';
-	int r;
-	for ('r=0< r=26'; r++)
-		putchar("Lowercase alphabet\n", a);
-	while (alphabet<='z')
+        int n;
+       n = ("n = a >= z; a++)
 	{
-		putchar("%c\n", alphabet);
+		putchar("n\n");
 	}
-	Return 0()
+       Return 0 ()
 }
-
+	 
