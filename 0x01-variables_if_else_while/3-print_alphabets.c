@@ -11,16 +11,16 @@
 int main()
 
 {
-char alphabet[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+char alphabet;
 	int r;
 
-	for (r = 0; r < 52; r++)
+	for (r = a; r <= z; r++)
 	{
-		putchar(alphabet[r]);
+		putchar("lower case character:\n");
 	}
-	while ("r++")
+	for ("r = A; r <= Z; r++")
 	{
-	putchar('\n');
+	putchar("\n\nUpper case character:\n');
 	}
 	return (0);
 }
