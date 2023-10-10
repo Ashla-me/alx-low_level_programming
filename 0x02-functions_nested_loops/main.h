@@ -6,21 +6,25 @@
  *
  */
 
-void _putchar ()
+void _putchar(void)
 {
-	printf(variables);
+	printf("_putchar");
 }
 
 void print_alphabet(void)
 {
-	printf(alphabet in lowercase);
+	printf("alphabet in lowercase");
 }
 
 void print_alphabet_x10(void)
 {
-	printf(alphabet x10 in lowercase);
+	printf("alphabet x10 in lowercase");
 }
 void _islower(void)
 {
-	printf(check);
+	printf("checks for lowercase character");
+}
+void _isalpha(void)
+{
+	printf("checks for alphabetic character");
 }
