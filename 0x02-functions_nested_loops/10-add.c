@@ -6,9 +6,6 @@
  */
 int add(int a, int b)
 
-	a = int a
-	b = int b
-
 {
 	return (a + b);
 }
