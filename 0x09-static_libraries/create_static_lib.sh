@@ -1,3 +1,4 @@
 #!/bin/bash
 gcc -c -Wall -Werror -Wextra *.c
-ar -r liball.a
+ar -r libmy.a
+gcc main.c -L -lall -o main
